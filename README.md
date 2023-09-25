@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michaelhanry, people usually call me as "el".
-- 👀 I’m interested in sports, music,literature and programming. 
+- 👀 I’m interested in sports, music, literature like poem and programming. 
 - 🌱 I’m currently learning Backend especially API and javascript as a server-side
 - 📫 How to reach me :
      1. IG : @hanry_michael
